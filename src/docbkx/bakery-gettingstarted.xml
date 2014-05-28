@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+
+<!ENTITY PRODNAME "Jolly Good Bakery"> <!-- in PDF: for line 1 on the cover page -->
+<!ENTITY PRODABBV "Bakery"> <!-- in PDF: for page headers -->
+<!ENTITY PROD "Jolly Good Bakery"> <!-- in body -->
+]>
+
+<book 
+    version="5.0" 
+    status="draft"
+    xml:id="bakery-getting-started"
+    xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:m="http://www.w3.org/1998/Math/MathML"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns:raxm="http://docs.rackspace.com/api/metadata">
+    <?rax title.font.size="35px" subtitle.font.size="20px"?>
+    <?rax status.bar.text="PREVIEW" ?>
+    <info>
+        <!-- The &PRODNAME; and &PRODABBV; are set in the entities at the top of this document -->
+        <title>&PRODNAME; Quickstart Kit</title>
+        <titleabbrev>&PRODABBV; Quickstart</titleabbrev>
+        <releaseinfo>DIY v1.0</releaseinfo>
+        <productname>&PRODNAME;</productname>
+        <!-- enter the publication date of this document; in revhistory, explain what changed -->
+        <pubdate>2014-05-24</pubdate>
+        <copyright>
+            <year>2014</year>
+            <holder>Jolly Good Bakery &amp; Friends</holder>
+        </copyright>
+        <legalnotice role="cc-by-sa">
+            <annotation>
+                <remark>Copyright details are filled in by the
+                    template.</remark>
+            </annotation>
+        </legalnotice>
+        <revhistory>
+            <revision>
+                <date>2014-05-24</date>
+                <revdescription>
+                    <itemizedlist spacing="compact">
+                        <listitem>
+                            <para>Initial draft for preview
+                                release.</para>
+                        </listitem>
+                    </itemizedlist>
+                </revdescription>
+            </revision>
+        </revhistory>
+    </info>
+    <chapter xml:id="Overview">
+        <title>Overview</title>
+        <para> &PROD; is a new bakery. </para>
+        <section xml:id="Doc_Change_History">
+            <title>Document Change History</title>
+            <para> This version of the document replaces and obsoletes
+                all previous versions. The most recent changes are
+                described in the following table: </para>
+            <?rax revhistory?>
+        </section>
+    </chapter>
+        <chapter xml:id="breads">
+            <title>Breads</title>
+            <para>We like all kinds of bread.</para>
+        <xi:include href="./recipes/zzzucchini-bread.xml"/>
+        </chapter>
+    <chapter xml:id="F_A_Q">
+        <title>Frequently asked questions</title>
+        <para><emphasis role="bold">Q:</emphasis> Why did the DevDoc
+            writers write these recipes? </para>
+        <para><emphasis role="bold">A:</emphasis> Writers like to
+            write. Writers like to eat. Writers like to write about
+            things to eat. What was the question?</para>
+        <para><emphasis role="bold">Q:</emphasis> Did the DevDoc
+            writers invent these recipes? </para>
+        <para><emphasis role="bold">A:</emphasis> Probably not. We're
+            <emphasis role="italic">technical</emphasis> writers.
+            That means we spend most of our time explaining things
+            that other people invented. We like inventions. We like
+            writing about inventions almost as much as we like writing
+            about things to eat.</para>
+        <para><emphasis role="bold">Q:</emphasis> Are these the only recipes the DevDoc
+            writers know? </para>
+        <para><emphasis role="bold">A:</emphasis> Hardly. We always
+            know much more than we tell.</para>
+        <para><emphasis role="bold">Q:</emphasis> Did the DevDoc
+            writers test these recipes? </para>
+        <para><emphasis role="bold">A:</emphasis> Let's just say that
+            some of us have tried some of the recipes, from our source
+            material but not from this document, so it's always
+            possible that something was lost in the transition to this
+            format. We mean well, but we don't have any QE resources.
+            You should make a small batch and taste it before trying
+            to impress your customers with anything you find in this
+            starter kit.</para>
+    </chapter>
+    <chapter xml:id="resources">
+            <title>Additional resources</title>
+            <para> If you need more ideas about what to bake in the bakery, just ask us:</para>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                        <para><link xlink:href="mailto:maria.abrahms@rackspace.com">Maria Abrahms</link></para>
+                    </listitem>
+                    <listitem>
+                        <para><link xlink:href="mailto:mike.asthalter@rackspace.com">Mike Asthalter</link></para>
+                    </listitem>
+                    <listitem>
+                        <para><link xlink:href="mailto:rose.coste@rackspace.com">Rose Coste</link></para>
+                    </listitem>
+                    <listitem>
+                        <para><link xlink:href="mailto:margaret.eker@rackspace.com">Margaret Eker</link></para>
+                    </listitem>
+                    <listitem>
+                        <para><link xlink:href="mailto:constanze.kratel@rackspace.com">Constanze Kratel</link></para>
+                    </listitem>
+                    <listitem>
+                        <para><link xlink:href="mailto:cat.lookabaugh@rackspace.com">Cat Lookabaugh</link></para>
+                    </listitem>
+                    <listitem>
+                        <para><link xlink:href="mailto:renee.rendon@rackspace.com">Renee Rendon</link></para>
+                    </listitem>
+                    <listitem>
+                        <para><link xlink:href="mailto:catherine.richardson@rackspace.com">Catherine Richardson</link></para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        <para>
+            You might also be inspired by photos of bakeries and baked goods:
+        </para>
+        <para>
+            <itemizedlist>
+                <listitem>
+                    <para><link xlink:href="https://plus.google.com/photos/110571135378191335459/albums/6015843392208061169?authkey=CN2RrYXokvKhvgE">Rose's photos from Israel and France</link></para>
+                </listitem>
+            </itemizedlist>
+        </para>
+    </chapter>
+</book>

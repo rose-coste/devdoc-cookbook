@@ -102,8 +102,12 @@
         <para><emphasis role="bold">Q:</emphasis> Why did the DevDoc
             writers write these recipes? </para>
         <para><emphasis role="bold">A:</emphasis> Writers like to
-            write. Writers like to eat. Writers like to write about
-            things to eat. What was the question?</para>
+            write. Writers like to eat. 
+            Writers like to write about
+            things to eat.
+            Writers like to read about
+            things to eat. 
+            It's all good.</para>
         <para><emphasis role="bold">Q:</emphasis> Did the DevDoc
             writers invent these recipes? </para>
         <para><emphasis role="bold">A:</emphasis> Probably not. We're
@@ -111,11 +115,20 @@
             That means we spend most of our time explaining things
             that other people invented. We like inventions. We like
             writing about inventions almost as much as we like writing
-            about things to eat.</para>
+            about things to eat. We can't eat most of the inventions 
+            that we write about, but we might try to eat some of these.
+        </para>
         <para><emphasis role="bold">Q:</emphasis> Are these the only recipes the DevDoc
             writers know? </para>
-        <para><emphasis role="bold">A:</emphasis> Hardly. We always
-            know much more than we tell.</para>
+        <para><emphasis role="bold">A:</emphasis> Hardly. 
+            We always
+            know much more than we tell. 
+            We like these recipes and we're happy to share them.
+            In a future release, especially 
+            after analyzing reader feedback and 
+            recruiting additional contributors,
+            we may share more.
+        </para>
         <para><emphasis role="bold">Q:</emphasis> Did the DevDoc
             writers test these recipes? </para>
         <para><emphasis role="bold">A:</emphasis> Let's just say that

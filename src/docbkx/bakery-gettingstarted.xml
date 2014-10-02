@@ -26,7 +26,7 @@
         <releaseinfo>DIY v1.0</releaseinfo>
         <productname>&PRODNAME;</productname>
         <!-- enter the publication date of this document; in revhistory, explain what changed -->
-        <pubdate>2014-05-24</pubdate>
+        <pubdate>2014-10-03</pubdate>
         <copyright>
             <year>2014</year>
             <holder>Jolly Good Bakery &amp; Friends</holder>
@@ -38,6 +38,17 @@
             </annotation>
         </legalnotice>
         <revhistory>
+            <revision>
+                <date>2014-10-03</date>
+                <revdescription>
+                    <itemizedlist spacing="compact">
+                        <listitem>
+                            <para>Production 
+                                release.</para>
+                        </listitem>
+                    </itemizedlist>
+                </revdescription>
+            </revision>
             <revision>
                 <date>2014-05-24</date>
                 <revdescription>
@@ -62,10 +73,10 @@
             <?rax revhistory?>
         </section>
     </chapter>
-        <chapter xml:id="breads">
-            <title>Breads</title>
-            <para>We like all kinds of bread.</para>
-        <xi:include href="./recipes/zzzucchini-bread.xml"/>
+    <chapter xml:id="breads">
+        <title>Breads</title>
+        <para>We like all kinds of bread.</para>
+         <xi:include href="./recipes/zzzucchini-bread.xml"/>
         </chapter>
     <chapter xml:id="F_A_Q">
         <title>Frequently asked questions</title>

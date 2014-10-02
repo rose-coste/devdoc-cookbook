@@ -74,10 +74,29 @@
         </section>
     </chapter>
     <chapter xml:id="breads">
-        <title>Breads</title>
+        <title>Breads &amp; Rolls</title>
         <para>We like all kinds of bread.</para>
-         <xi:include href="./recipes/zzzucchini-bread.xml"/>
-        </chapter>
+        <xi:include href="./recipes/cinnamon-roll.xml"/>
+        <xi:include href="./recipes/poppy-bread.xml"/>
+        <xi:include href="./recipes/zzzucchini-bread.xml"/>
+    </chapter>
+    <chapter xml:id="cakes">
+        <title>Cakes &amp; Cupcakes</title>
+        <para>We like all kinds of cake.</para>
+        <xi:include href="./recipes/germanchocolate-cake.xml"/>
+        <xi:include href="./recipes/pineapple-cupcake.xml"/>
+    </chapter>
+    <chapter xml:id="cookies">
+        <title>Cookies &amp; Bars</title>
+        <para>We like all kinds of cookies.</para>
+        <xi:include href="./recipes/almond-bar.xml"/>
+    </chapter>
+    <chapter xml:id="pies">
+        <title>Pies &amp; More Pies</title>
+        <para>We like all kinds of pie.</para>
+        <xi:include href="./recipes/chocolate-pie.xml"/>
+        <xi:include href="./recipes/peach-pie.xml"/>
+    </chapter>
     <chapter xml:id="F_A_Q">
         <title>Frequently asked questions</title>
         <para><emphasis role="bold">Q:</emphasis> Why did the DevDoc

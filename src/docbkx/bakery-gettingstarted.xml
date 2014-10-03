@@ -75,7 +75,14 @@
     </chapter>
     <chapter xml:id="breads">
         <title>Breads &amp; Rolls</title>
-        <para>We like all kinds of bread.</para>
+        <blockquote><attribution>Miguel de Cervantes Saavedra</attribution>
+            <para>
+                All sorrows are less with bread.
+            </para>
+        </blockquote>
+        <tip>
+            <para>We like all kinds of bread.</para>
+        </tip>
         <?hard-pagebreak?>
         <xi:include href="./recipes/cinnamon-roll.xml"/>
         <?hard-pagebreak?>
@@ -85,7 +92,14 @@
     </chapter>
     <chapter xml:id="cakes">
         <title>Cakes &amp; Cupcakes</title>
-        <para>We like all kinds of cake.</para>
+        <blockquote><attribution>George Harrison</attribution>
+            <para>
+                All the world is birthday cake, so take a piece, but not too much.
+            </para>
+        </blockquote>
+        <tip>
+            <para>We like all kinds of cake.</para>
+        </tip>
         <?hard-pagebreak?>
         <xi:include href="./recipes/germanchocolate-cake.xml"/>
         <?hard-pagebreak?>
@@ -93,13 +107,27 @@
     </chapter>
     <chapter xml:id="cookies">
         <title>Cookies &amp; Bars</title>
-        <para>We like all kinds of cookies.</para>
+        <blockquote><attribution>Cookie Monster</attribution>
+            <para>
+                Friend something better than chocolate ice cream… Maybe friend somebody you give up last cookie for.
+            </para>
+        </blockquote>
+        <tip>
+            <para>We like all kinds of cookies.</para>
+        </tip>
         <?hard-pagebreak?>
         <xi:include href="./recipes/almond-bar.xml"/>
     </chapter>
     <chapter xml:id="pies">
         <title>Pies &amp; More Pies</title>
-        <para>We like all kinds of pie.</para>
+        <blockquote><attribution>Carl Sagan</attribution>
+            <para>
+                If you wish to make an apple pie from scratch, you must first invent the universe.
+            </para>
+        </blockquote>
+        <tip>
+            <para>We like all kinds of pie.</para> 
+        </tip>
         <?hard-pagebreak?>
         <xi:include href="./recipes/chocolate-pie.xml"/>
         <?hard-pagebreak?>

@@ -134,72 +134,124 @@
         <xi:include href="./recipes/peach-pie.xml"/>
     </chapter>
     <chapter xml:id="F_A_Q">
-        <title>Frequently asked questions</title>
-        <para><emphasis role="bold">Q:</emphasis> Why did the DevDoc
-            writers write these recipes? </para>
-        <para><emphasis role="bold">A:</emphasis> 
-            Writers like to
-            write. Writers like to eat. 
-            Writers like to write about
-            things to eat.
-            Writers like to read about
-            things to eat. 
-            The easiest way to read more about things to eat 
-            is to write more about things to eat. 
-            It's all good.</para>
-        <para><emphasis role="bold">Q:</emphasis> Did the DevDoc
-            writers invent these recipes? </para>
-        <para><emphasis role="bold">A:</emphasis> 
-            Probably not. We're
-            <emphasis role="italic">technical</emphasis> writers.
-            That means we spend most of our time explaining things
-            that other people invented. We like inventions. We like
-            writing about inventions almost as much as we like writing
-            about things to eat. We can't eat most of the inventions 
-            that we write about, but we might try to eat some of these.
-        </para>
-        <para><emphasis role="bold">Q:</emphasis> Are these the only recipes the DevDoc
-            writers know? </para>
-        <para><emphasis role="bold">A:</emphasis> 
-            Hardly. 
-            We always
-            know much more than we tell. 
-            We like these recipes and we're happy to share them.
-            In a future release, especially 
-            after analyzing reader feedback and 
-            recruiting additional contributors,
-            we may share more.
-        </para>
-        <para><emphasis role="bold">Q:</emphasis> 
-            Why don't these recipes all follow the same format? </para>
-        <para><emphasis role="bold">A:</emphasis> 
-            Our style guide doesn't address recipe formatting; we're 
-            conducting user experience research A/B comparing multiple 
-            wireframe designs, after which we'll draft, coordinate, and
-            implement a standard in a future release. Or we're lazy. 
-        </para>
-        <para><emphasis role="bold">Q:</emphasis> 
-            Where are the illustrations of the finished food? </para>
-        <para><emphasis role="bold">A:</emphasis> 
-            We had a few, but not enough, and not good enough. 
-            We have very high standards for art about food. 
-            When we create or acquire some appropriately amazing illustrations, 
-            we'll add them to the 
-            <link xlink:href="https://github.com/rose-coste/devdoc-cookbook">GitHub repository for this bakery quickstart</link>
-            and rebuild it.
-            Or you can.
-        </para>
-        <para><emphasis role="bold">Q:</emphasis> Did the DevDoc
-            writers test these recipes? </para>
-        <para><emphasis role="bold">A:</emphasis> 
-            Let's just say that
-            some of us have tried some of the recipes, from our source
-            material but not from this document, so it's always
-            possible that something was lost in the transition to this
-            format. We mean well, but we don't have any QE resources.
-            You should make a small batch and taste it before trying
-            to impress your customers with anything you find in this
-            starter kit.</para>
+        <title>Frequently asked questions</title> 
+        <qandaset defaultlabel='qanda'>
+            <qandaentry>
+                <question>
+                    <para>
+                        Why did the DevDoc
+                        writers write these recipes?
+                    </para>
+                </question>
+                <answer>
+                    <para>
+                        Writers like to
+                        write. Writers like to eat. 
+                        Writers like to write about
+                        things to eat.
+                        Writers like to read about
+                        things to eat. 
+                        The easiest way to read more about things to eat 
+                        is to write more about things to eat. 
+                        It's all good.
+                    </para>
+                </answer>
+            </qandaentry>
+            <qandaentry>
+                <question>
+                    <para>
+                        Did the DevDoc
+                        writers invent these recipes?
+                    </para>
+                </question>
+                <answer>
+                    <para>
+                        Probably not. We're
+                        <emphasis role="italic">technical</emphasis> writers.
+                        That means we spend most of our time explaining things
+                        that other people invented. We like inventions. We like
+                        writing about inventions almost as much as we like writing
+                        about things to eat. We can't eat most of the inventions 
+                        that we write about, but 
+                        we have tried to eat some of these.
+                    </para>
+                </answer>
+            </qandaentry>
+            <qandaentry>
+                <question>
+                    <para>
+                        Are these the only recipes the DevDoc
+                        writers know?
+                    </para>
+                </question>
+                <answer>
+                    <para>
+                        Hardly. 
+                        We always
+                        know much more than we tell. 
+                        We like these recipes and we're happy to share them.
+                        In a future release, especially 
+                        after analyzing reader feedback and 
+                        recruiting additional contributors,
+                        we might share a larger subset of the
+                        vast universe of our knowledge.
+                    </para>
+                </answer>
+            </qandaentry>
+            <qandaentry>
+                <question>
+                    <para>
+                        Why don't all these recipes follow the same format?
+                    </para>
+                </question>
+                <answer>
+                    <para>
+                        Our style guide doesn't address recipe formatting; we're 
+                        conducting user experience research A/B comparing multiple 
+                        wireframe designs, after which we'll draft, coordinate, and
+                        implement a standard in a future release. Or we're lazy.
+                    </para>
+                </answer>
+            </qandaentry>
+            <qandaentry>
+                <question>
+                    <para>
+                        Where are the illustrations of the finished food?
+                    </para>
+                </question>
+                <answer>
+                    <para>
+                        We had a few photos, but not enough, and not good enough. 
+                        We have very high standards for art about food. 
+                        When we create or acquire some appropriately amazing illustrations, 
+                        we'll add them to the 
+                        <link xlink:href="https://github.com/rose-coste/devdoc-cookbook">GitHub repository for this bakery quickstart</link>
+                        and rebuild the book.
+                        Or you can.
+                    </para>
+                </answer>
+            </qandaentry>
+            <qandaentry>
+                <question>
+                    <para>
+                        Did the DevDoc
+                        writers test these recipes? 
+                    </para>
+                </question>
+                <answer>
+                    <para>
+                        Let's just say that
+                        some of us have tried some of the recipes, from our source
+                        material but not from this document, so it's always
+                        possible that something was lost in the transition to this
+                        format. We mean well, but we don't have any QE resources.
+                        You should make a small batch and taste it before trying
+                        to impress your customers with anything you find in this
+                        starter kit.
+                    </para>
+                </answer>
+            </qandaentry>
+        </qandaset>
     </chapter>
     <chapter xml:id="resources">
             <title>Additional resources</title>

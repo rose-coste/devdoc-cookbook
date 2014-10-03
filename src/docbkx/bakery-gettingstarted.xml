@@ -80,9 +80,9 @@
                 All sorrows are less with bread.
             </para>
         </blockquote>
-        <tip>
+        <note>
             <para>We like all kinds of bread.</para>
-        </tip>
+        </note>
         <?hard-pagebreak?>
         <xi:include href="./recipes/cinnamon-roll.xml"/>
         <?hard-pagebreak?>
@@ -97,9 +97,9 @@
                 All the world is birthday cake, so take a piece, but not too much.
             </para>
         </blockquote>
-        <tip>
+        <note>
             <para>We like all kinds of cake.</para>
-        </tip>
+        </note>
         <?hard-pagebreak?>
         <xi:include href="./recipes/germanchocolate-cake.xml"/>
         <?hard-pagebreak?>
@@ -112,9 +112,9 @@
                 Friend something better than chocolate ice cream… Maybe friend somebody you give up last cookie for.
             </para>
         </blockquote>
-        <tip>
+        <note>
             <para>We like all kinds of cookies.</para>
-        </tip>
+        </note>
         <?hard-pagebreak?>
         <xi:include href="./recipes/almond-bar.xml"/>
     </chapter>
@@ -125,9 +125,9 @@
                 If you wish to make an apple pie from scratch, you must first invent the universe.
             </para>
         </blockquote>
-        <tip>
+        <note>
             <para>We like all kinds of pie.</para> 
-        </tip>
+        </note>
         <?hard-pagebreak?>
         <xi:include href="./recipes/chocolate-pie.xml"/>
         <?hard-pagebreak?>

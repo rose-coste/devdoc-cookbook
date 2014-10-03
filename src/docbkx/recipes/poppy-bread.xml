@@ -2,7 +2,7 @@
 <section xmlns="http://docbook.org/ns/docbook" xml:id="bread-poppy">
     <title>Hashasli Ekmek Poppy-Seed Bread</title>
     <para><emphasis role="italic">a recipe from Margaret Eker</emphasis></para>
-    <para><emphasis role="italic"> by a friend from Turkey</emphasis></para>
+    <note>
     <para><emphasis role="italic">
         In Turkey, my husband's family makes this amazing bread 
         called Hashasli Ekmek--a poppy seed bread, 
@@ -22,6 +22,7 @@
             You might not pass a drug test if you eat too much Hashasli Ekmek.
         </emphasis></para>
     </warning>
+    </note>
     <para>
         <emphasis role="bold">Ingredients</emphasis>
     </para>

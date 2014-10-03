@@ -3,8 +3,29 @@
     xml:id="bread-zzzucchini">
     <title>Zzzucchini bread</title>
     <para><emphasis role="italic">a recipe from Rose Coste</emphasis></para>
-    <para><emphasis role="italic"> by Rose's great aunt Celia Zydowicz
-            Ziemkiewicz</emphasis></para>
+    <note>
+    <para><emphasis role="italic"> This recipe is from my mother's
+                mother's sister, my great aunt Celia Zydowicz
+                Ziemkiewicz. Aunt Celia lived a long and busy life in
+                Cleveland, Ohio. Every October, maybe until she was 90
+                and I was 40 years old, she came to San Antonio for
+                ten days to visit us and to buy two pairs of shoes
+                (one black pair for winter, one brown pair for summer)
+                from San Antonio Shoemakers. Every time she came, she
+                brought a suitcase full of her baking, including
+                zzzucchini bread wrapped in waxed paper and aluminum
+                foil. I must have been 20 years old before I figured
+                out that zucchini was not a sweet fruit like an apple
+                or a banana, and we actually had plenty in local
+                grocery stores and didn't need to import it from
+                Cleveland. I remember that Celia was quite annoyed at
+                my impatience when I wanted her to tell me the recipe
+                so I could try it myself instead of waiting for her
+                annual visit. She wasn't one for written recipes,
+                preferring to do what works rather than what's
+                written, but she gave me this summary anyway.
+            </emphasis></para>
+    </note>
     <para>
         <emphasis role="bold">Ingredients:</emphasis>
         <itemizedlist>
@@ -41,11 +62,7 @@
             <listitem>
                 <para>1 C nuts</para>
             </listitem>
-        </itemizedlist>
-    </para>
-    <para>
-        <emphasis role="bold">Procedure:</emphasis>
-    </para>
+        </itemizedlist></para>
     <para> Preheat oven to 350F. </para>
     <para/>
     <para> Beat eggs. Add sugar &amp; oil. Beat until fluffy. Add

@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<section 
-    xmlns="http://docbook.org/ns/docbook"
-    xml:id="bread-zzzucchini" >
+<section xmlns="http://docbook.org/ns/docbook"
+    xml:id="bread-zzzucchini">
     <title>Zzzucchini bread</title>
-    <para>a recipe from Rose Coste</para>
+    <para><emphasis role="italic">a recipe from Rose Coste</emphasis></para>
+    <para><emphasis role="italic"> by Rose's great aunt Celia Zydowicz
+            Ziemkiewicz</emphasis></para>
     <para>
-by Rose's Great Aunt Celia Zydowicz Ziemkiewicz
-    </para>
-<para>
-    <emphasis role="bold">Ingredients:</emphasis>
+        <emphasis role="bold">Ingredients:</emphasis>
         <itemizedlist>
             <listitem>
                 <para>3 eggs</para>
@@ -44,24 +42,15 @@ by Rose's Great Aunt Celia Zydowicz Ziemkiewicz
                 <para>1 C nuts</para>
             </listitem>
         </itemizedlist>
-</para>
-<para>
-   <emphasis role="bold">Procedure:</emphasis>
-</para>
-<para>
-    Preheat oven to 350F.
-</para>
-<para/>
-<para>
-Beat eggs.
-Add sugar &amp; oil.
-Beat until fluffy.
-Add vanilla.
-Alternately add zucchini and pineapple &amp; dry ingredients.
-Add raisins &amp; nuts.
-</para>
-<para/>
-<para>
-Bake 1 hour in 2 loaf pans, greased &amp; floured.
-</para>
+    </para>
+    <para>
+        <emphasis role="bold">Procedure:</emphasis>
+    </para>
+    <para> Preheat oven to 350F. </para>
+    <para/>
+    <para> Beat eggs. Add sugar &amp; oil. Beat until fluffy. Add
+        vanilla. Alternately add zucchini and pineapple &amp; dry
+        ingredients. Add raisins &amp; nuts. </para>
+    <para/>
+    <para> Bake 1 hour in 2 loaf pans, greased &amp; floured. </para>
 </section>

@@ -1,30 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<section 
-    xmlns="http://docbook.org/ns/docbook"
-    xml:id="bread-poppy" >
-    <title>Poppy-Seed Bread</title>
-    <para>a recipe from Margaret Eker</para>
-    <para> by Abraham's family</para>
-<para>
-    <emphasis role="bold">Ingredients:</emphasis>
+<section xmlns="http://docbook.org/ns/docbook" xml:id="bread-poppy">
+    <title>Hashasli Ekmek Poppy-Seed Bread</title>
+    <para><emphasis role="italic">a recipe from Margaret Eker</emphasis></para>
+    <para><emphasis role="italic"> by a friend from Turkey</emphasis></para>
+    <para><emphasis role="italic">
+        In Turkey, my husband's family makes this amazing bread 
+        called Hashasli Ekmek--a poppy seed bread, 
+        but better than any poppy seed bread that I ever had.
+    </emphasis></para>
+    <para><emphasis role="italic"> In the Eker family, recipes are
+            passed from generation to generation by hands-on
+            learning---no recipes. They adjust the ingredients based
+            on time of year; temperature outside, humidity, and so on.
+            I tried replicating this myself with mixed results. Then,
+            I got the following wonderful recipe from a Turkish woman
+            I met. The instructions for braiding the bread are a bit
+            complicated; mine always comes out looking a bit messy,
+            but always tastes great. </emphasis></para>
+    <warning>
+        <para><emphasis role="italic">
+            You might not pass a drug test if you eat too much Hashasli Ekmek.
+        </emphasis></para>
+    </warning>
+    <para>
+        <emphasis role="bold">Ingredients</emphasis>
+    </para>
+    <para>
+        <emphasis role="bold"><emphasis role="italic"
+            >Dough</emphasis></emphasis>
         <itemizedlist>
             <listitem>
-                <para>3 eggs</para>
+                <para>1 ½ tbsp instant yeast</para>
             </listitem>
             <listitem>
-                <para>3/4 C oil</para>
+                <para>1 cup milk (warm)</para>
             </listitem>
             <listitem>
-                <para>3 T vanilla or as much more as you like</para>
+                <para>3 cups flour</para>
             </listitem>
             <listitem>
-                <para>2 C grated zucchini</para>
+                <para>1 egg, beaten</para>
             </listitem>
             <listitem>
-                <para>1 C golden raisins (soaked in warm water)</para>
+                <para>1 tbsp salt</para>
             </listitem>
             <listitem>
-                <para>2 C sugar</para>
+                <para>1 tbsp sugar</para>
             </listitem>
             <listitem>
                 <para>3 C flour</para>
@@ -41,25 +62,153 @@
             <listitem>
                 <para>1 C nuts</para>
             </listitem>
-        </itemizedlist>
-</para>
-<para>
-   <emphasis role="bold">Procedure:</emphasis>
-</para>
-<para>
-    Preheat oven to 350F.
-</para>
-<para/>
-<para>
-Beat eggs.
-Add sugar &amp; oil.
-Beat until fluffy.
-Add vanilla.
-Alternately add zucchini and pineapple &amp; dry ingredients.
-Add raisins &amp; nuts.
-</para>
-<para/>
-<para>
-Bake 1 hour in 2 loaf pans, greased &amp; floured.
-</para>
+        </itemizedlist></para>
+    <para>
+        <emphasis role="bold"><emphasis role="italic">Filling
+                mixture</emphasis></emphasis>
+        <itemizedlist>
+            <listitem>
+                <para>¾ cup poppy seeds</para>
+            </listitem>
+            <listitem>
+                <para>¾ cup raisin/currants</para>
+            </listitem>
+            <listitem>
+                <para>1 cup milk</para>
+            </listitem>
+            <listitem>
+                <para>2 tbsp corn starch</para>
+            </listitem>
+            <listitem>
+                <para>1 egg yolk</para>
+            </listitem>
+            <listitem>
+                <para>2 tbsp butter</para>
+            </listitem>
+        </itemizedlist></para>
+    <para>
+        <emphasis role="bold">Prepare filling</emphasis>
+        <orderedlist>
+            <listitem>
+                <para>Mix the poppy seeds, raisin, and half of the
+                    milk (1/2 cup) in a pot. Cook the mixture over
+                    very low heat until the seeds and raisin absorb
+                    all the milk (~10 min).</para>
+            </listitem>
+            <listitem>
+                <para>Cook the mixture over very low heat until the
+                    seeds and raisin absorb all the milk (~10 min).
+                </para>
+            </listitem>
+            <listitem>
+                <para>While the poppy seeds are cooking, whisk corn
+                    starch, yolk and the other half of milk in a small
+                    bowl. </para>
+            </listitem>
+            <listitem>
+                <para>When the poppy seed mixture is ready, stir the
+                    egg yolk mixture into the pot and stir until
+                    thickened. </para>
+            </listitem>
+            <listitem>
+                <para>Remove filling from the heat; add butter, and
+                    stir well.</para>
+            </listitem>
+        </orderedlist></para>
+    <para> Reserve mixture to spread on dough when ready. </para>
+    <para>
+        <emphasis role="bold">Prepare dough</emphasis>
+        <orderedlist>
+            <listitem>
+                <para>Mix all the ingredients for dough together. If
+                    the dough is sticky, add a little more flour.
+                </para>
+            </listitem>
+            <listitem>
+                <para>Knead the dough, and leave to rise for 1 hour.
+                </para>
+            </listitem>
+            <listitem>
+                <para>After an hour, knead dough again.</para>
+            </listitem>
+        </orderedlist></para>
+    <para>
+        <emphasis role="bold">Prepare oven and pan</emphasis>
+        <orderedlist>
+            <listitem>
+                <para>Preheat the oven to 350 degrees. </para>
+            </listitem>
+            <listitem>
+                <para>Oil a flat, circular tray to cook the bread.
+                </para>
+            </listitem>
+        </orderedlist></para>
+    <para>
+        <emphasis role="bold">Assemble dough and filling</emphasis>
+        <orderedlist>
+            <listitem>
+                <para>Sprinkle a little flour on the counter and roll
+                    it out in a rectangle-like shape. </para>
+            </listitem>
+            <listitem>
+                <para>Spread poppy seed mixture on dough, and then
+                    scatter the raisins or currants on top. </para>
+            </listitem>
+            <listitem>
+                <para> Roll the dough tightly into a long tube.
+                </para>
+            </listitem>
+            <listitem>
+                <para> With a sharp knife, slice the tube in half
+                    lengthwise. </para>
+            </listitem>
+            <listitem>
+                <para> Turn each half so that filling is facing up.
+                </para>
+            </listitem>
+            <listitem>
+                <para> Wrap the dough in a spiral circle. </para>
+            </listitem>
+            <listitem>
+                <para> Braid the bread: <itemizedlist>
+                        <listitem>
+                            <para>Lay each section on the counter with
+                                the filling facing up. </para>
+                        </listitem>
+                        <listitem>
+                            <para>Pick up one piece of dough, and
+                                place it on top of the other section
+                                to form an X. </para>
+                        </listitem>
+                        <listitem>
+                            <para>Lift one of the ends on the bottom
+                                piece of dough up and fold it over the
+                                top section of dough in a U shape. Do
+                                the same with the other bottom section
+                                so that you have two U-shaped sections
+                                joined in the middle, with 2 ends on
+                                each side. </para>
+                        </listitem>
+                        <listitem>
+                            <para>Starting from the middle, braid the
+                                two ends on one side together. </para>
+                        </listitem>
+                        <listitem>
+                            <para>Repeat on other side so that you
+                                have one long braided piece of dough.
+                            </para>
+                        </listitem>
+                    </itemizedlist></para>
+            </listitem>
+            <listitem>
+                <para> On the circular pan, wrap the dough in a tight
+                    circle, pressing the two ends together to seal
+                    them. </para>
+            </listitem>
+        </orderedlist></para>
+    <para>
+        <emphasis role="bold">Bake</emphasis>
+    </para>
+    <para> Bake bread for 35 minutes, serve warm with black coffee to balance richness of bread.
+    </para>
 </section>

@@ -165,16 +165,15 @@
                     </para>
                 </question>
                 <answer>
-                    <para>
-                        Probably not. We're
-                        <emphasis role="italic">technical</emphasis> writers.
-                        That means we spend most of our time explaining things
-                        that other people invented. We like inventions. We like
-                        writing about inventions almost as much as we like writing
-                        about things to eat. We can't eat most of the inventions 
-                        that we write about, but 
-                        we have tried to eat some of these.
-                    </para>
+                    <para> Probably not. We're <emphasis role="italic"
+                            >technical</emphasis> writers. That means
+                        we spend most of our time explaining things
+                        that other people invented. We like
+                        inventions. We like writing about inventions
+                        almost as much as we like writing about things
+                        to eat. We can't eat most of the inventions
+                        that we write about, but we have eaten some of
+                        these. </para>
                 </answer>
             </qandaentry>
             <qandaentry>
@@ -205,12 +204,17 @@
                     </para>
                 </question>
                 <answer>
-                    <para>
-                        Our style guide doesn't address recipe formatting; we're 
-                        conducting user experience research A/B comparing multiple 
-                        wireframe designs, after which we'll draft, coordinate, and
-                        implement a standard in a future release. Or we're lazy.
-                    </para>
+                    <para> Our style guide doesn't address recipe
+                        formatting; we're conducting user experience
+                        research A/B comparing multiple wireframe
+                        designs, after which we'll draft, coordinate,
+                        and implement a standard in a future release.
+                        Or we're agile: we release what we have as
+                        soon as it's usable, whether or not it's
+                        beautiful; we'll get around to "beautiful"
+                        later, after we find an executive sponsor for
+                        an epic to pay down our technical debt. Or it
+                        might be that we're lazy. </para>
                 </answer>
             </qandaentry>
             <qandaentry>

@@ -76,25 +76,33 @@
     <chapter xml:id="breads">
         <title>Breads &amp; Rolls</title>
         <para>We like all kinds of bread.</para>
+        <?hard-pagebreak?>
         <xi:include href="./recipes/cinnamon-roll.xml"/>
+        <?hard-pagebreak?>
         <xi:include href="./recipes/poppy-bread.xml"/>
+        <?hard-pagebreak?>
         <xi:include href="./recipes/zzzucchini-bread.xml"/>
     </chapter>
     <chapter xml:id="cakes">
         <title>Cakes &amp; Cupcakes</title>
         <para>We like all kinds of cake.</para>
+        <?hard-pagebreak?>
         <xi:include href="./recipes/germanchocolate-cake.xml"/>
+        <?hard-pagebreak?>
         <xi:include href="./recipes/pineapple-cupcake.xml"/>
     </chapter>
     <chapter xml:id="cookies">
         <title>Cookies &amp; Bars</title>
         <para>We like all kinds of cookies.</para>
+        <?hard-pagebreak?>
         <xi:include href="./recipes/almond-bar.xml"/>
     </chapter>
     <chapter xml:id="pies">
         <title>Pies &amp; More Pies</title>
         <para>We like all kinds of pie.</para>
+        <?hard-pagebreak?>
         <xi:include href="./recipes/chocolate-pie.xml"/>
+        <?hard-pagebreak?>
         <xi:include href="./recipes/peach-pie.xml"/>
     </chapter>
     <chapter xml:id="F_A_Q">
@@ -141,6 +149,17 @@
             conducting user experience research A/B comparing multiple 
             wireframe designs, after which we'll draft, coordinate, and
             implement a standard in a future release. Or we're lazy. 
+        </para>
+        <para><emphasis role="bold">Q:</emphasis> 
+            Where are the illustrations of the finished food? </para>
+        <para><emphasis role="bold">A:</emphasis> 
+            We had a few, but not enough, and not good enough. 
+            We have very high standards for art about food. 
+            When we create or acquire some appropriately amazing illustrations, 
+            we'll add them to the 
+            <link xlink:href="https://github.com/rose-coste/devdoc-cookbook">GitHub repository for this bakery quickstart</link>
+            and rebuild it.
+            Or you can.
         </para>
         <para><emphasis role="bold">Q:</emphasis> Did the DevDoc
             writers test these recipes? </para>

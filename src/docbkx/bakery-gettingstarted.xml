@@ -8,7 +8,6 @@
 
 <book 
     version="5.0" 
-    status="draft"
     xml:id="bakery-getting-started"
     xmlns="http://docbook.org/ns/docbook"
     xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -18,7 +17,6 @@
     xmlns:html="http://www.w3.org/1999/xhtml"
     xmlns:raxm="http://docs.rackspace.com/api/metadata">
     <?rax title.font.size="35px" subtitle.font.size="20px"?>
-    <?rax status.bar.text="PREVIEW" ?>
     <info>
         <!-- The &PRODNAME; and &PRODABBV; are set in the entities at the top of this document -->
         <title>&PRODNAME; Quickstart Kit</title>
@@ -26,7 +24,7 @@
         <releaseinfo>DIY v1.0</releaseinfo>
         <productname>&PRODNAME;</productname>
         <!-- enter the publication date of this document; in revhistory, explain what changed -->
-        <pubdate>2014-10-03</pubdate>
+        <pubdate>2014-10-06</pubdate>
         <copyright>
             <year>2014</year>
             <holder>Jolly Good Bakery &amp; Friends</holder>
@@ -39,23 +37,11 @@
         </legalnotice>
         <revhistory>
             <revision>
-                <date>2014-10-03</date>
+                <date>2014-10-06</date>
                 <revdescription>
                     <itemizedlist spacing="compact">
                         <listitem>
-                            <para>Production 
-                                release.</para>
-                        </listitem>
-                    </itemizedlist>
-                </revdescription>
-            </revision>
-            <revision>
-                <date>2014-05-24</date>
-                <revdescription>
-                    <itemizedlist spacing="compact">
-                        <listitem>
-                            <para>Initial draft for preview
-                                release.</para>
+                            <para>First release.</para>
                         </listitem>
                     </itemizedlist>
                 </revdescription>

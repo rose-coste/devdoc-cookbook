@@ -44,6 +44,9 @@
 					<enableDisqus>0</enableDisqus>
 					<feedbackEmail>rose.coste@rackspace.com</feedbackEmail>
 					<branding>rackspace</branding>
+					<copyright>
+						<holder>Jolly Good Bakery</holder>
+					</copyright>
 					<showXslMessages>true</showXslMessages>
 					<makePdf>true</makePdf>
 				</configuration>

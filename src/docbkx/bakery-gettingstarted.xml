@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book [
-
 <!ENTITY PRODNAME "Jolly Good Bakery"> <!-- in PDF: for line 1 on the cover page -->
 <!ENTITY PRODABBV "Bakery"> <!-- in PDF: for page headers -->
 <!ENTITY PROD "Jolly Good Bakery"> <!-- in body -->
 ]>
-
 <book 
     version="5.0" 
     xml:id="bakery-getting-started"
@@ -21,20 +19,26 @@
         <!-- The &PRODNAME; and &PRODABBV; are set in the entities at the top of this document -->
         <title>&PRODNAME; Quickstart Kit</title>
         <titleabbrev>&PRODABBV; Quickstart</titleabbrev>
-        <releaseinfo>DIY v1.0</releaseinfo>
-        <productname>&PRODNAME;</productname>
         <!-- enter the publication date of this document; in revhistory, explain what changed -->
         <pubdate>2014-10-06</pubdate>
         <copyright>
             <year>2014</year>
             <holder>Jolly Good Bakery &amp; Friends</holder>
         </copyright>
+        <releaseinfo>DIY v1.0</releaseinfo>
+        <productname>&PRODNAME;</productname>
         <legalnotice role="cc-by-sa">
             <annotation>
                 <remark>Copyright details are filled in by the
                     template.</remark>
             </annotation>
         </legalnotice>
+        <abstract>
+            <para>This document is intended for bakers interested
+                in developing bakeries. This document also
+                includes details on how to produce a basic
+                assortment of baked goods. </para>
+        </abstract>
         <revhistory>
             <revision>
                 <date>2014-10-06</date>
@@ -120,13 +124,13 @@
         <xi:include href="./recipes/peach-pie.xml"/>
     </chapter>
     <chapter xml:id="F_A_Q">
-        <title>Frequently asked questions</title> 
+        <title>Frequently-Asked Questions</title> 
         <qandaset defaultlabel='qanda'>
             <qandaentry>
                 <question>
                     <para>
                         Why did the DevDoc
-                        writers write these recipes?
+                        writers collect these recipes?
                     </para>
                 </question>
                 <answer>
@@ -138,7 +142,18 @@
                         Writers like to read about
                         things to eat. 
                         The easiest way to read more about things to eat 
-                        is to write more about things to eat. 
+                        is to write more about things to eat.
+                    </para>
+                    <para>
+                        When Paul was here, the easiest way we could get
+                        something good to eat was to hang around 
+                        Paul's desk, where something fancy was bound to
+                        show up pretty soon.
+                        Now that Paul has moved on to other adventures,
+                        we have to be more creative about acquiring 
+                        free desserts. 
+                        We might have to bake for ourselves sometimes.
+                        With this, we're ready.
                         It's all good.
                     </para>
                 </answer>
@@ -180,6 +195,47 @@
                         recruiting additional contributors,
                         we might share a larger subset of the
                         vast universe of our knowledge.
+                    </para>
+                </answer>
+            </qandaentry>
+            <qandaentry>
+                <question>
+                    <para>
+                        What's up with the Rackspace logo on the cover page?
+                    </para>
+                </question>
+                <answer>
+                    <para> Well, 
+                    we want this Bakery Quickstart to look a lot like the
+                    Getting Started doc we publish for Rackspace APIs at 
+                        <link xlink:href="http://docs.rackspace.com/">docs.rackspace.com</link>,
+                        because that might make Paul laugh. 
+                        That's really why, but you can also say its some
+                        free advertising for Rackspace, because who knows when someone might
+                        visit the 
+                        <link xlink:href="https://github.com/rose-coste/devdoc-cookbook">GitHub repository for this bakery quickstart</link>
+                         and be impressed with the good work Rackers can do.
+                    </para>
+                </answer>
+            </qandaentry>
+            <qandaentry>
+                <question>
+                    <para>
+                        What's up with "Rackspace US" in the copyright claim?
+                    </para>
+                </question>
+                <answer>
+                    <para> It might be a bug. 
+                        We've been having some trouble getting ranges of dates
+                        formatted properly in the copyright claim; 
+                        this might be related. 
+                        In the 
+                        <link xlink:href="https://github.com/rose-coste/devdoc-cookbook/blob/master/src/docbkx/bakery-gettingstarted.xml">doc source for this bakery quickstart</link>, 
+                        we list the copyright holder as 
+                        "Jolly Good Bakery &amp; Friends"; the doc build isn't letting that through. 
+                        A future release of the 
+                        <link xlink:href="https://github.com/stackforge/clouddocs-maven-plugin">clouddocs-maven-plugin</link>
+                        will probably fix that right up.
                     </para>
                 </answer>
             </qandaentry>
@@ -244,7 +300,7 @@
         </qandaset>
     </chapter>
     <chapter xml:id="resources">
-            <title>Additional resources</title>
+            <title>Additional Resources</title>
             <para> If you need more ideas about what to bake in the bakery, just ask us:</para>
             <para>
                 <itemizedlist>

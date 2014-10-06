@@ -3,65 +3,110 @@
     xmlns="http://docbook.org/ns/docbook"
     xml:id="pie-chocolate" >
     <title>Easy Chocolate Custard Pie</title>
-    <para>a recipe from Catherine Richardson</para>
-    <para>
-by Rose's Great Aunt Celia Zydowicz Ziemkiewicz
-    </para>
+    <para><emphasis role="italic">a recipe from Catherine Richardson</emphasis></para>
+    <note>
+        <para><emphasis role="italic">
+            This recipe comes from Nellie's Cage Free Eggs.
+        </emphasis>
+        </para>
+    </note>
 <para>
-    <emphasis role="bold">Ingredients:</emphasis>
+    <emphasis role="bold">Ingredients</emphasis>
         <itemizedlist>
             <listitem>
-                <para>3 eggs</para>
+                <para>1-1/2 cups fine Newman's Own Organics Alphabet Cookie crumbs (about 4 oz.)</para>
             </listitem>
             <listitem>
-                <para>3/4 C oil</para>
+                <para>1/3 cup (2/3 stick) butter, room temperature</para>
             </listitem>
             <listitem>
-                <para>3 T vanilla or as much more as you like</para>
+                <para>1 cup Santa Cruz Organic chocolate syrup</para>
             </listitem>
             <listitem>
-                <para>2 C grated zucchini</para>
+                <para>1/4 cup sugar</para>
             </listitem>
             <listitem>
-                <para>1 C golden raisins (soaked in warm water)</para>
+                <para>4 Nellie's Cage Free Eggs</para>
             </listitem>
             <listitem>
-                <para>2 C sugar</para>
-            </listitem>
-            <listitem>
-                <para>3 C flour</para>
-            </listitem>
-            <listitem>
-                <para>1 t baking soda</para>
-            </listitem>
-            <listitem>
-                <para>1 t baking powder</para>
-            </listitem>
-            <listitem>
-                <para>1 C crushed pineapple, drained</para>
-            </listitem>
-            <listitem>
-                <para>1 C nuts</para>
+                <para>1 tsp. vanilla</para>
             </listitem>
         </itemizedlist>
 </para>
 <para>
-   <emphasis role="bold">Procedure:</emphasis>
-</para>
-<para>
-    Preheat oven to 350F.
-</para>
-<para/>
-<para>
-Beat eggs.
-Add sugar &amp; oil.
-Beat until fluffy.
-Add vanilla.
-Alternately add zucchini and pineapple &amp; dry ingredients.
-Add raisins &amp; nuts.
-</para>
-<para/>
-<para>
-Bake 1 hour in 2 loaf pans, greased &amp; floured.
+   <emphasis role="bold">Preparation</emphasis>
+    <orderedlist>
+        <listitem>
+            <para>Crust:</para>
+        <orderedlist>
+        <listitem>
+            <para>Heat oven to 350°F.
+            </para>
+        </listitem>
+        <listitem>
+            <para>Put cookie crumbs in medium bowl. 
+                Add butter; mix until thoroughly blended.
+            </para>
+        </listitem>
+        <listitem>
+            <para>
+                Press crumb mixture evenly and firmly against bottom and sides of 9-inch pie plate.
+            </para>
+        </listitem>
+        <listitem>
+            <para>Bake in 350°F oven for 8 to 10 minutes until center is firm to the touch. 5. Cool completely on wire rack.
+            </para>
+        </listitem>
+        </orderedlist>
+        </listitem>
+        <listitem>
+            <para>Filling:</para>
+            <orderedlist>
+                <listitem>
+                    <para>Heat oven to 350°F.
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>Combine syrup, milk and sugar in small saucepan. 
+                        Cook over low heat, stirring constantly until bubbles form at edges. 
+                        Set aside.
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>Beat eggs and vanilla in medium bowl until blended. 
+                        Stirring constantly, 
+                        slowly add heated milk mixture until well blended.
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>Pour into crumb crust.
+                    </para>
+                </listitem>
+            </orderedlist>
+        </listitem>
+                <listitem>
+                    <para>Bake in center of 350°F oven for 
+                        40 to 45 minutes until a thin-bladed knife 
+                        inserted near center of pie comes out clean. 
+                        If any custard clings to the blade, 
+                        bake a few minutes longer and test again. 
+                        The center will jiggle slightly when dish is gently shaken. 
+                        Center will firm up as it cools.
+                    </para>
+                </listitem>
+        <listitem>
+            <para>Cool on wire rack.</para>
+        </listitem>
+        <listitem>
+            <para>Garnish with fresh whipped organic whipped cream 
+                and fresh mint.
+            </para>
+        </listitem>
+        <listitem>
+            <para>Serve warm or refrigerate until cold. 
+                Refrigerate any leftover pie promptly.
+            </para>
+        </listitem>
+    </orderedlist>
 </para>
 </section>

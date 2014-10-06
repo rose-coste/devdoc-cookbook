@@ -3,63 +3,59 @@
     xmlns="http://docbook.org/ns/docbook"
     xml:id="cookie-almond" >
     <title>Almond Bars</title>
-    <para>a recipe from Mike Asthalter</para>
-    <para> by Mike's wife Kris</para>
+    <para><emphasis role="italic">a recipe from Mike Asthalter</emphasis></para>
+    <note>
+        <para><emphasis role="italic">
+            This recipe is from my wife, Kris.
+        </emphasis>
+        </para>
+    </note>
 <para>
-    <emphasis role="bold">Ingredients:</emphasis>
         <itemizedlist>
             <listitem>
-                <para>3 eggs</para>
+                <para>1 2/3 cups all-purpose flour</para>
             </listitem>
             <listitem>
-                <para>3/4 C oil</para>
+                <para>1 ½ cups sugar</para>
             </listitem>
             <listitem>
-                <para>3 T vanilla or as much more as you like</para>
+                <para>½ cup unsalted butter, melted</para>
             </listitem>
             <listitem>
-                <para>2 C grated zucchini</para>
+                <para>1/8 teaspoon salt</para>
             </listitem>
             <listitem>
-                <para>1 C golden raisins (soaked in warm water)</para>
+                <para>2 large eggs, lightly beaten</para>
             </listitem>
             <listitem>
-                <para>2 C sugar</para>
+                <para>1 ½ tablespoons almond extract</para>
             </listitem>
             <listitem>
-                <para>3 C flour</para>
-            </listitem>
-            <listitem>
-                <para>1 t baking soda</para>
-            </listitem>
-            <listitem>
-                <para>1 t baking powder</para>
-            </listitem>
-            <listitem>
-                <para>1 C crushed pineapple, drained</para>
-            </listitem>
-            <listitem>
-                <para>1 C nuts</para>
+                <para>1 cup sliced almonds</para>
             </listitem>
         </itemizedlist>
 </para>
-<para>
-   <emphasis role="bold">Procedure:</emphasis>
-</para>
-<para>
-    Preheat oven to 350F.
-</para>
-<para/>
-<para>
-Beat eggs.
-Add sugar &amp; oil.
-Beat until fluffy.
-Add vanilla.
-Alternately add zucchini and pineapple &amp; dry ingredients.
-Add raisins &amp; nuts.
-</para>
-<para/>
-<para>
-Bake 1 hour in 2 loaf pans, greased &amp; floured.
-</para>
+    <orderedlist>
+        <listitem>
+            <para>Preheat oven to 350 degrees.</para>
+        </listitem>
+        <listitem>
+            <para>Mix flour and sugar.
+            </para>
+        </listitem>
+        <listitem>
+            <para>Add butter, salt, eggs, and almond extract.</para>
+        </listitem>
+        <listitem>
+            <para>
+                Spread mixture into a lightly greased 12 by 9 inch pan. 
+                Sprinkle sliced almonds over top and press lightly into batter.</para>
+        </listitem>
+        <listitem>
+            <para>Bake until lightly browned, 15 – 20 minutes.</para>
+        </listitem>
+        <listitem>
+            <para>Cool slightly and slice into bars.</para>
+        </listitem>
+    </orderedlist>
 </section>

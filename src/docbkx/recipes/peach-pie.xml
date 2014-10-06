@@ -2,64 +2,88 @@
 <section 
     xmlns="http://docbook.org/ns/docbook"
     xml:id="pie-peach" >
-    <title>Peach Pie</title>
-    <para>a recipe from Renee Rendon</para>
-    <para> by Mike's wife Kris</para>
+    <title>Super Simple &amp; Yummy Peach Pie</title>
+    <para><emphasis role="italic">a recipe from 
+        Ren&#x00E9;e Rendon</emphasis></para>
+    <note>
+        <para><emphasis role="italic">
+            This is my favorite pie recipe. 
+            It is super fast and easy to throw together and tastes soooo yummy!
+        </emphasis>
+        </para>
+    </note>
 <para>
     <emphasis role="bold">Ingredients:</emphasis>
         <itemizedlist>
             <listitem>
-                <para>3 eggs</para>
+                <para>pastry for a double-crust 9-inch pie</para>
             </listitem>
             <listitem>
-                <para>3/4 C oil</para>
+                <para>5 cups frozen peaches</para>
             </listitem>
             <listitem>
-                <para>3 T vanilla or as much more as you like</para>
+                <para>1 cup sugar</para>
             </listitem>
             <listitem>
-                <para>2 C grated zucchini</para>
+                <para>1/3 - 1/2 cup flour</para>
             </listitem>
             <listitem>
-                <para>1 C golden raisins (soaked in warm water)</para>
+                <para>1/4 - 1/2 teaspoon cinnamon
+                    </para>
             </listitem>
             <listitem>
-                <para>2 C sugar</para>
+                <para>2 tablespoons butter</para>
             </listitem>
             <listitem>
-                <para>3 C flour</para>
-            </listitem>
-            <listitem>
-                <para>1 t baking soda</para>
-            </listitem>
-            <listitem>
-                <para>1 t baking powder</para>
-            </listitem>
-            <listitem>
-                <para>1 C crushed pineapple, drained</para>
-            </listitem>
-            <listitem>
-                <para>1 C nuts</para>
+                <para>2 tablespoons sugar (for top of pie)</para>
             </listitem>
         </itemizedlist>
 </para>
 <para>
-   <emphasis role="bold">Procedure:</emphasis>
+   <emphasis role="bold">Directions:</emphasis>
+    <orderedlist>
+        <listitem>
+            <para>Preheat oven to 425 degrees F.</para>
+        </listitem>
+        <listitem>
+            <para>Stir together flour, 1 cup sugar, and cinnamon and set aside.
+            </para>
+        </listitem>
+        <listitem>
+            <para>Microwave peaches until thawed.</para>
+        </listitem>
+        <listitem>
+            <para>Mix together peaches with the combined dry ingredients.</para>
+        </listitem>
+        <listitem>
+            <para>Turn into pastry-lined pie pan and dot with butter.
+            </para>
+        </listitem>
+        <listitem>
+            <para>Cover with top crust, cut slits in it, seal the edges.</para>
+        </listitem>
+        <listitem>
+            <para>Sprinkle top with 2 tablespoons of sugar.</para>
+        </listitem>
+        <listitem>
+            <para>Cover the edges with foil to prevent over browning.
+            </para>
+        </listitem>
+        <listitem>
+            <para>Bake 35 to 45 minutes or until crust is brown 
+                and juice begins to bubble through the slits 
+                in the crust.
+            </para>
+        </listitem>
+        <listitem>
+            <para>Pie may be frozen for future use.</para>
+        </listitem>
+    </orderedlist>
 </para>
+    <warning>
 <para>
-    Preheat oven to 350F.
+    Put a cookie sheet under the pie when baking, 
+    so the juices don’t overflow and burn on the oven floor.
 </para>
-<para/>
-<para>
-Beat eggs.
-Add sugar &amp; oil.
-Beat until fluffy.
-Add vanilla.
-Alternately add zucchini and pineapple &amp; dry ingredients.
-Add raisins &amp; nuts.
-</para>
-<para/>
-<para>
-Bake 1 hour in 2 loaf pans, greased &amp; floured.
-</para>
+    </warning>
 </section>
